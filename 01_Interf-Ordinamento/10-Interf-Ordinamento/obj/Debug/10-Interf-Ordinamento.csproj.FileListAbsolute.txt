@@ -1,0 +1,9 @@
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\bin\Debug\10-Interf-Ordinamento.exe.config
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\bin\Debug\10-Interf-Ordinamento.exe
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\bin\Debug\10-Interf-Ordinamento.pdb
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\obj\Debug\10-Interf-Ordinamento.csproj.AssemblyReference.cache
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\obj\Debug\_10_Interf_Ordinamento.Properties.Resources.resources
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\obj\Debug\10-Interf-Ordinamento.csproj.GenerateResource.cache
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\obj\Debug\10-Interf-Ordinamento.csproj.CoreCompileInputs.cache
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\obj\Debug\10-Interf-Ordinamento.exe
+C:\Users\fcrav\OneDrive\Desktop\10-Interf-Ordinamento\10-Interf-Ordinamento\obj\Debug\10-Interf-Ordinamento.pdb

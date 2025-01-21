@@ -1,0 +1,9 @@
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\bin\Debug\interf-Icomperer.exe.config
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\bin\Debug\interf-Icomperer.exe
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\bin\Debug\interf-Icomperer.pdb
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\obj\Debug\interf-Icomperer.csproj.AssemblyReference.cache
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\obj\Debug\interf_Icomperer.Properties.Resources.resources
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\obj\Debug\interf-Icomperer.csproj.GenerateResource.cache
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\obj\Debug\interf-Icomperer.csproj.CoreCompileInputs.cache
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\obj\Debug\interf-Icomperer.exe
+C:\Users\fcrav\OneDrive\Desktop\interf-Icomperer\interf-Icomperer\obj\Debug\interf-Icomperer.pdb

@@ -1,0 +1,8 @@
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\bin\Debug\User_Control.dll
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\bin\Debug\User_Control.pdb
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\obj\Debug\User_Control.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\obj\Debug\User_Control.UserControlTextBox.resources
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\obj\Debug\User_Control.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\obj\Debug\User_Control.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\obj\Debug\User_Control.dll
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\User_Control\User_Control\obj\Debug\User_Control.pdb

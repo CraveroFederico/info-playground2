@@ -1,0 +1,11 @@
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\bin\Debug\UtilizzoUser_Control.exe.config
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\bin\Debug\UtilizzoUser_Control.exe
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\bin\Debug\UtilizzoUser_Control.pdb
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\UtilizzoUser_Control.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\UtilizzoUser_Control.Form1.resources
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\UtilizzoUser_Control.Properties.Resources.resources
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\UtilizzoUser_Control.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\UtilizzoUser_Control.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\Utilizzo.462B2E97.Up2Date
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\UtilizzoUser_Control.exe
+C:\Users\lenovo\Desktop\4° B INF\Info\Progetti\Teoria\UtilizzoUser_Control\UtilizzoUser_Control\obj\Debug\UtilizzoUser_Control.pdb
